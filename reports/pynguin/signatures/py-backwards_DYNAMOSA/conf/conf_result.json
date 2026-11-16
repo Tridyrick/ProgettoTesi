@@ -1,0 +1,1 @@
+[{"file": "conf.py", "line_number": 12, "type": ["argparse.Namespace"], "col_offset": 19, "function": "init_settings", "parameter": "args"}, {"file": "conf.py", "line_number": 12, "type": ["None"], "col_offset": 5, "function": "init_settings"}]

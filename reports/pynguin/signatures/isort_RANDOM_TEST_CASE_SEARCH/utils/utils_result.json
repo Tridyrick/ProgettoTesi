@@ -1,0 +1,1 @@
+[{"file": "utils.py", "line_number": 5, "type": ["str"], "col_offset": 27, "function": "exists_case_sensitive", "parameter": "path"}, {"file": "utils.py", "line_number": 5, "type": ["bool"], "col_offset": 5, "function": "exists_case_sensitive"}]

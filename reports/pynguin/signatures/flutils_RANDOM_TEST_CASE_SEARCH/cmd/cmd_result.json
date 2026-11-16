@@ -1,0 +1,1 @@
+[{"file": "cmd.py", "line_number": 100, "type": ["flutils.setuputils.cfg.SetupCfgCommandConfig"], "col_offset": 9, "function": "build_setup_cfg_command_class", "parameter": "setup_command_cfg"}, {"file": "cmd.py", "line_number": 99, "type": ["type"], "col_offset": 5, "function": "build_setup_cfg_command_class"}]
